@@ -1,18 +1,10 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+/preparacion
+/releases
+/videos_sesiones
+.DS_Store
+ndvi_2000_2020.tif
+ndvi_maximo_anual.zip
+ndvi_2000_mensual.tif
+resultados_ndvi_sierra_nevada.zip
+resultados.zip
+/entregas
