@@ -12,23 +12,50 @@
 
 ## Objetivos 
 
-El objetivo de este acto docente es presentar los contenidos de la asignatura. 
+La finalidad última de esta actividad es que los estudiantes entiendan los fundamentos ecológicos de las invasiones biológicas y que ese proceso no depende tanto de la especie invasora en sí como de su interacción con un territorio concreto.
 
-A su vez, los objetivos de la asignatura son:
+De manera más específica, los objetivos son:
 
 - Disciplinares (relacionados con la biología en general):
-  - Entender en profundidad el concepto de invasión biológica desde el punto de vista de las interacciones ecológicas.
-  - Conocer casos particulares de invasioens biológicas en nuestro territorio.
-  - Aprender algunos casos de estudio sobre intentos de erradicación y/o control de especies invasoras en nuestro territorio.
+  - Entender las características que tienen las especies invasoras.
+  - Comprender que las invasiones biológicas son procesos escalo dependientes. Es decir, su definición cambia en el dominio del tiempo y en el del espacio.
+  - Inferir las características de los territorios potencialmente invasibles.
+  - Establecer parelelismos entre el proceso de invasión biológica y el de infección provocada por un microorganismo.
+  - Comprender las implicaciones evolutivas de las invasiones biológicas. 
+  - Conocer algunas fuentes de datos importantes para caracterizar los procesos de invasión biológica en nuestro territorio. 
 - Transversales (implican a distintas disciplinas):
-  - Mejorar las habilidades de búsqueda y análisis de bibliografía científica.
-  - Avanzar en la construcción de hilos argumentales y su exposición oral.
-  - Aprender a usar herramientas de IA como promotoras del aprendizaje profundo.
-  - Usar los mapas mentales y conceptuales como herramientas de síntesis de información.
+  - Aprender a utilizar las nuevas técnicas de inteligencia artificial como asistentes de aprendizaje.
+  - Mejorar habilidades de expresión oral.
 
 
 
 ## Hilo argumental
+
+Este acto docente comprende varias sesiones en las que se usan varias técnicas pedagógicas. Se alternan las clases expositivas con los debates y las preguntas-repreguntas para apelar al conocimiento ya existente de los estudiantes. En esta sección se describe lo más fielmente posible cómo discurrieron dichas sesiones. Se incluyen enlaces al material usado en clase o se incluyen en el texto. Además, se describen los contenidos abordados de manera sucinta, a modo de puntos clave
+
++ En el ámbito de las invasiones biológicas, tienen mucho protagonismo las especies invasoras. Así que, la primera pregunta que nos hacemos es, ¿Qué es una especie invasora?. En la siguiente presentación se muestran los contenidos principales a este respecto.
+
+<iframe height="400" src="https://raw.githack.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/main/presentacion/1_que_es_invasora/1_que_es_invasora.html"></iframe>
+
++ El mensaje clave que surge de esta presentación es que el concepto de especie invasora incluye multitud de dependencias y de matices que dificultan su definición de manera absoluta. Es decir, casi cualquier especie puede comportarse como invasora. 
+
++ Además, observamos que las invasiones dependen de las escalas espaciales y temporales que estemos contemplando. 
+
++ Lo anterior nos hace concluir que, en realidad, el foco no debe de ponerse tanto en las características de las especies invasoras. O al menos no únicamente. Hay otros dos elementos importantes a tener en cuenta: el territorio que sufre la invasión y el proceso en sí de invasión biológica. Esto último depende, en buena medida de las interacciones ecológicas que ocurren entre la especie invasora y el territorio "receptor"
+
++ Trataremos de darle algo más de forma a cómo cambia el concepto de invasión en el dominio del tiempo y del espacio.
+
+  + En el dominio del espacio, las invasiones biológicas entendidas como el proceso por el cual una especie sale de su área de distribución natural, tienen dos límites:
+    + El límite inferior ocurre a escala de individuo. Los individuos se mueven e interactúan con otros individuos de distintas especies. Esto no se considera una invasión.
+    + En el extremo superior, a escala planetaria, no hay invasiones biológicas (que sepamos). Todos los organismos que hay en la Tierra se han originado aquí.
+  + En el dominio del tiempo, los procesos de invasión pueden ocurrir en dos rangos temporales extremos:
+    + Corto plazo (horas). En estos casos, si la escala espacial es pequeña también, podríamos decir que el proceso por el cual un organismo "coloniza a otro", podría denominarse "enfermedad" o también casi cualquier relación trófica. Por tanto no hablamos aquí de invasiones biológicas.
+    + En el largo plazo, los movimientos de especies por el planeta están relacionados con las migraciones e implican flujo de genes entre poblaciones. Tampoco podría denominarse una invasión biológica.
+  + Además, si incorporamos un tercer eje que describa las interacciones, estamos contemplando también el conjunto de razones que hacen que un territorio sea más o menos susceptible a una invasión biológica.
+
+  Según todo lo anterior, una invasión biológica suele darse en escalas temporales y espaciales intermedias y en el extremo de las interacciones que haría que un territorio fuera susceptible a la invasión. Esta presentación muestra gráficamente lo anterior. 
+
+
 
 
 
