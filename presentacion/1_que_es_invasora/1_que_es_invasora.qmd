@@ -1,0 +1,146 @@
+---
+format:
+  revealjs:
+    slide-number: true
+    theme: simple
+    slide-level: 1
+    center: true
+    css: styles.css
+---
+
+---
+
+# Conceptos generales de especies invasoras
+
+---
+
+ <p class="titulo">¿Qué es una especie invasora?</p>
+
+---
+
+ <p class="subtitulo1">Exóticas que no generan problemas</p>
+
+::: {style="display: flex; justify-content: center; gap: 20px;"}
+<figure>
+![](imagenes/Estrilda_astrild.jpg){width=500px}
+<figcaption>*Estrilda astrild*. Pico coral</figcaption>
+</figure>
+
+<figure>
+![](imagenes/estrilda_map.png){width=900px}
+<figcaption>Área de distribución. Verde: original; Rojo: área colonizada</figcaption>
+</figure>
+:::
+<br>
+<br>
+<br>
+<p style="font-size: 0.4em; color: gray;">[Common Waxbill (Estrilda astrild Linnaeus, 1758). DOI:10.1079/9781789242065.0155](https://www.researchgate.net/publication/347803809_Common_Waxbill_Estrilda_astrild_Linnaeus_1758)</p>
+
+---
+
+<p class="subtitulo1">Exóticas que invadieron y ya no generan problemas</p>
+::: {style="display: flex; justify-content: center; gap: 20px;"}
+<figure>
+![](imagenes/Castanea_sativa.jpg){width=500px}
+<figcaption>*Castanea sativa*. Castaño</figcaption>
+</figure>
+
+<figure>
+![](imagenes/castanio_andalucia.png){width=900px}
+<figcaption>Área de distribución en Andalucía</figcaption>
+</figure>
+:::
+<br>
+<p style="font-size: 0.4em; color: gray;">[Guía de identificación de los hábitats de interés comunitario de Andalucía. Junta de Andalucía](https://www.juntadeandalucia.es/medioambiente/contenidoExterno/habitats/278/?utm_source=chatgpt.com)</p>
+
+---
+
+<p class="subtitulo1">Especies domesticadas que generan muchos problemas</p>
+
+::: {style="display: grid; grid-template-rows: auto auto; gap: 20px; justify-items: center;"}
+<div style="display: flex; gap: 20px;">
+  <figure>
+    ![](imagenes/gatos1.png){width=300px}
+    <figcaption>*Felis sylvestris*. Gato doméstico</figcaption>
+  </figure>
+
+  <figure>
+    ![](imagenes/gatos_capturas.png){width=400px}
+    <figcaption>Capturas realizadas por gatos</figcaption>
+  </figure>
+</div>
+:::
+
+::: {style="font-size: 0.7em; color: black;"}
+Cada año, los gatos domésticos atacan entre 1000 y 4000 millones de aves, entre 6000 y 22.000 millones de pequeños mamíferos y cientos de millones de reptiles y anfibios en los Estados Unidos.
+:::
+<br>
+<p style="font-size: 0.4em; color: gray;">[Los gatos domésticos mataron a los 232 animales de esta foto en solo un año. National Geographic](https://www.nationalgeographic.es/animales/2020/09/gatos-domesticos-mataron-a-232-animales-de-esta-foto)</p>
+<p style="font-size: 0.4em; color: gray;">[¿Qué podemos hacer para salvar a las aves de los gatos. National Geographic](https://www.nationalgeographic.es/animales/2024/12/caballos-domesticacion-cuando-donde)</p>
+
+---
+
+<p class="subtitulo1">Especies invasoras según el uso del suelo y que "ayudan" a otras que no lo son</p>
+
+::: {style="display: grid; grid-template-rows: auto auto; gap: 20px; justify-items: center;"}
+<div class="fragment" style="display: flex; gap: 20px;">
+  <figure>
+    ![](imagenes/monarca_Asclepias_curassavica_crop.jpg){width=300px}
+    <figcaption>*Asclepias curassavica*.</figcaption>
+  </figure>
+
+  <figure>
+    ![](imagenes/monarca_Asclepias_fruticosa_fruits.jpg){width=300px}
+    <figcaption>*Asclepias fruticosa*</figcaption>
+  </figure>
+</div>
+
+<div class="fragment" style="display: flex; gap: 20px;">
+  <figure>
+    ![](imagenes/monarca_sobre_Asclepias_curassavica_crop.jpg){width=300px}
+    <figcaption>*Danaus plexippus* sobre *Asclepias curassavica*.</figcaption>
+  </figure>
+
+  <figure>
+    ![](imagenes/monarca_sobre_Asclepias_fruticosa.jpg){width=300px}
+    <figcaption>*Danaus plexippus* sobre *Asclepias fruticosa*</figcaption>
+  </figure>
+</div>
+:::
+
+---
+
+<p class="subtitulo1">Especies invasoras según el uso del suelo y que "ayudan" a otras que no lo son</p>
+
+::: {style="display: grid; grid-template-rows: auto auto; gap: 20px; justify-items: center;"}
+<div style="display: flex; gap: 20px;">
+  <figure>
+    ![](imagenes/monarca_ganado.jpg){width=400px}
+    <figcaption>Presencia de ganado</figcaption>
+  </figure>
+
+  <figure>
+    ![](imagenes/monarca_sin_ganado.jpg){width=400px}
+    <figcaption>*Asclepias fruticosa*</figcaption>
+  </figure>
+</div>
+<p class="cita" > *Asclepia* es invasora solo cuando los herbívoros domésticos limitan la competencia "local" -> esto permite que los especímenes divagantes de *Danaus plexippus* establezcan poblaciones </p>
+:::
+
+---
+
+<p class="titulo">¿Hay especies invasoras aquí?</p>
+<div style="text-align: center;">
+![](imagenes/earth.jpg){width=500px}
+</div>
+
+---
+
+<p class="subtitulo2">¿Es que no sirve nuestra definición anterior?</p>
+</br>
+Incorporemos algunos conceptos que nos ayudarán:
+
+- **Especie exótica**: especie introducida como consecuencia de la actividad humana. 
+- **Especie invasora**: especie exótica potencialmente dañina para el medio ambiente, la economía, o la salud humana. 
+
+---

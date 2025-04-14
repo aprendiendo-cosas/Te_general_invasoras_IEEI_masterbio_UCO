@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 5 horas
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/refs/tags/2024-2025/imagenes/portada.jpg" alt="portada" style="zoom:200%;" />
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/tags/2024_2025/imagenes/portada.png)
 
 
 
@@ -26,9 +26,28 @@ A su vez, los objetivos de la asignatura son:
   - Aprender a usar herramientas de IA como promotoras del aprendizaje profundo.
   - Usar los mapas mentales y conceptuales como herramientas de síntesis de información.
 
+
+
 ## Hilo argumental
 
-En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/presentacion/presentacion_asignatura.pptx) presentación se muestran los contenidos de la clase.
+
+
+- Qué es una especie invasora. **Presentación en quarto**
+  - Provocación para concluir que el foco no está en la especie en sí, sino en el proceso de invasión.
+  - En ese proceso hay tres elementos
+    - la especie que invade
+    - El territorio invadido
+    - el proceso. Es decir cómo ocurre la invasión en el dominio del tiempo **contexto_invasiones.pptx**
+- Caracterización de las especies invasorsa. ¿Qué rasgos diferenciales tienen? Experiencia con la ia. **Texto en el guión con pantallazos y enlaces**
+  - Preguntamos a chatgpt y a perplexity
+  - Intentamos caracterizar la invasibilidad de las especies en función de una serie de criterios. esto sale mal
+- Características de los territorios invadidos. **Reflexión en clase con un mapa mental.**
+- El proceso de invasión. **Presentación de power Point** (**proceso_invasion.pptx**)
+- 
+
+
+
+
 
 
 ****

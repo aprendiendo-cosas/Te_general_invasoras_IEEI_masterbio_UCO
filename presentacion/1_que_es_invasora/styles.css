@@ -1,0 +1,56 @@
+figure {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+figure figcaption {
+    margin-top: 5px;
+    font-size: 0.3em !important;
+    color: gray;
+}
+
+.reveal .slide-footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+    color: gray;
+}
+
+.reveal .slides > div {
+    margin-bottom: 1px; /* Ajusta el margen para evitar superposición */
+}
+
+/* Estilo para "titulo" */
+.titulo {
+    color: black; /* Color negro */
+    font-weight: bold; /* Negrita */
+    font-size: 2em; /* Tamaño grande */
+    text-align: center; /* Opcional: centrar el texto */
+    margin: 20px 0; /* Opcional: margen superior e inferior */
+}
+
+/* Estilo para "subtitulo1" */
+.subtitulo1 {
+    color: black; /* Color negro */
+    font-weight: bold; /* negrita */
+    font-size: 0.9em; /* Tamaño medio */
+    text-align: center; /* Opcional: centrar el texto */
+    margin: 15px 0; /* Opcional: margen superior e inferior */
+}
+
+/* Estilo para "subtitulo2" */
+.subtitulo2 {
+    color: black; /* Color negro */
+    font-weight: bold; /* negrita */
+    font-size: 1.4em; /* Tamaño medio */
+    text-align: center; /* Opcional: centrar el texto */
+    margin: 15px 0; /* Opcional: margen superior e inferior */
+}
