@@ -53,18 +53,14 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
     + En el largo plazo, los movimientos de especies por el planeta están relacionados con las migraciones e implican flujo de genes entre poblaciones. Tampoco podría denominarse una invasión biológica.
   + Además, si incorporamos un tercer eje que describa las interacciones, estamos contemplando también el conjunto de razones que hacen que un territorio sea más o menos susceptible a una invasión biológica.
 
-  Según todo lo anterior, una invasión biológica suele darse en escalas temporales y espaciales intermedias y en el extremo de las interacciones que haría que un territorio fuera susceptible a la invasión. Esta presentación muestra gráficamente lo anterior. 
+  Según todo lo anterior, una invasión biológica suele darse en escalas temporales y espaciales intermedias y en el extremo de las interacciones que haría que un territorio fuera susceptible a la invasión. [Esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/presentacion/2_contexto_invasiones.pptx) presentación muestra gráficamente lo anterior. Para entender mejor el proceso, usar la animación en Powerpoint.
 
 
 
 
 
-- Qué es una especie invasora. **Presentación en quarto**
-  - Provocación para concluir que el foco no está en la especie en sí, sino en el proceso de invasión.
-  - En ese proceso hay tres elementos
-    - la especie que invade
-    - El territorio invadido
-    - el proceso. Es decir cómo ocurre la invasión en el dominio del tiempo **contexto_invasiones.pptx**
+
+
 - Caracterización de las especies invasorsa. ¿Qué rasgos diferenciales tienen? Experiencia con la ia. **Texto en el guión con pantallazos y enlaces**
   - Preguntamos a chatgpt y a perplexity
   - Intentamos caracterizar la invasibilidad de las especies en función de una serie de criterios. esto sale mal
