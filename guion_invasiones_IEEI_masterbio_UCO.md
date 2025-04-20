@@ -29,7 +29,7 @@ De manera más específica, los objetivos son:
 
 
 
-## Hilo argumental
+## Contenidos
 
 Este acto docente comprende varias sesiones en las que se usan varias técnicas pedagógicas. Se alternan las clases expositivas con los debates y las preguntas-repreguntas para apelar al conocimiento ya existente de los estudiantes. En esta sección se describe lo más fielmente posible cómo discurrieron dichas sesiones. Se incluyen enlaces al material usado en clase o se incluyen en el texto. Además, se describen los contenidos abordados de manera sucinta, a modo de puntos clave.
 
@@ -117,23 +117,18 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
 
 Para trabajar esta componente del proceso de invasión hacemos una especie de tertulia dialógica en clase. Todo empieza con esta pregunta: ¿Cuáles son las características que debería tener un territorio para ser susceptible de sufrir una invasión biológica? Del diálogo surgen las siguientes ideas:
 
-+ Características internas del territorio (o del ecosistema). Comprenden aquellas características propias del sistema invadido. En este sentido, identificamos que un ecosistema susceptible de ser invadido debe de estar deteriorado. Es decir, consideramos que una especie invasora puede colonizar un territorio si y solo si dicho territorio ha experimentado algún impacto que ha abierto "huecos" en su estructura. Esta afirmación asume que, en un sistema no alterado todos los nichos ecológicos están ocupados y eso dificulta la entrada de otras especies. Detallando un poco más esta idea concluimos que el deterioro puede venir de dos fuentes:
++ Características internas del territorio (o del ecosistema). Comprenden aquellas características propias del sistema invadido. Estas características están relacionadas con la vulnerabilidad de un ecosistema para resultar invadido. En este sentido, identificamos que un ecosistema susceptible de ser invadido debe de estar deteriorado. Es decir, consideramos que una especie invasora puede colonizar un territorio si y solo si dicho territorio ha experimentado algún impacto que ha abierto "huecos" en su estructura. Esta afirmación asume que, en un sistema no alterado todos los nichos ecológicos están ocupados y eso dificulta la entrada de otras especies. Detallando un poco más esta idea concluimos que el deterioro puede venir de dos fuentes:
   + Hay una alteración provocada por la actividad humana. Adelantamos que esta es la principal razón por la que ocurren invasiones biológicas en la actualidad.
   + El ecosistema invadido tiene una estructura sencilla de forma natural. Esto, *a priori*, puede ocurrir por varias razones:
     + Grado de aislamiento alto. Aunque esto se confunde un poco con el siguiente bloque de ideas, asumimos que una isla tiene pocas especies (por la ya conocida biogeografía de islas). Eso hace  que puedan quedar nichos no ocupados y que eso aumente la probabilidad de invasión.
     + Al inicio de la sucesión ecológica pueden quedar nichos disponibles y eso hace que el territorio sea más proclive a verse afectado por invasiones biológicas. De hecho, el proceso natural de la sucesión ecológica implica en buena medida la llegada de especies que ocupan todo el territorio. El problema ocurre cuando las especies que llegan son exóticas.
     + Si hay una extinción local natural en un territorio, se abre una posibilidad de que el nicho que queda "libre" sea ocupado por una especie invasora.
     + También es posible que los ambientes muy duros u extremos fomenten de alguna manera la invasibilidad. Algunas especies muy especializadas pueden ocupar estos ambientes. 
-+ Características 
++ Relaciones de vecindad del ecosistema invadido. Se refieren a las características del territorio que rodean a un ecosistema invadido. Este conjunto de variables no están muy relacionadas con la vulnerabilidad propia del ecosistema invadido, sino con el riesgo de sufrir una invasión. En otras palabras, un territorio aumenta su suceptibilidad a sufrir una invasión cuando está rodeado de otros que son vulnerables o que ya soportan invasiones biológicas. La forma y el tamaño del ecosistema potencialmente invadido están relacionadas con el riesgo de recibir invasiones biológicas. 
 
 
 
-
-
-- 
-- Características de los territorios invadidos. **Reflexión en clase con un mapa mental.**
-- El proceso de invasión. **Presentación de power Point** (**proceso_invasion.pptx**)
-- 
+### Aspectos generales del proceso de invasión
 
 
 
