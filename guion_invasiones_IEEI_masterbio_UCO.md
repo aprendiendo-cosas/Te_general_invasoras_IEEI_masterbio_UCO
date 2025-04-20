@@ -130,7 +130,9 @@ Para trabajar esta componente del proceso de invasión hacemos una especie de te
 
 ### Aspectos generales del proceso de invasión
 
+El tercer componente clave de las invasiones biológicas es el proceso de invasión en sí. Durante esta sesión analizamos este proceso teniendo en cuenta dos miradas diferentes pero complementarias:
 
++ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas. Analizamos este proceso siguiendo el trabajo de Blackburn et al. (2021)
 
 
 
