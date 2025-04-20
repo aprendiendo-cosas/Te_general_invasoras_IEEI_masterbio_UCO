@@ -39,7 +39,7 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
 
 + En el ámbito de las invasiones biológicas, tienen mucho protagonismo las especies invasoras. Así que, la primera pregunta que nos hacemos es, ¿Qué es una especie invasora?. En la siguiente presentación se muestran los contenidos principales a este respecto.
 
-<iframe height="400" src="https://raw.githack.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/main/presentacion/1_que_es_invasora/1_que_es_invasora.html"></iframe>
+<iframe height="400" src="https://raw.githack.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/2024_2025/presentacion/1_que_es_invasora/1_que_es_invasora.html"></iframe>
 
 + El mensaje clave que surge de esta presentación es que el concepto de especie invasora incluye multitud de dependencias y de matices que dificultan su definición de manera absoluta. Es decir, casi cualquier especie puede comportarse como invasora. 
 
@@ -127,12 +127,17 @@ Para trabajar esta componente del proceso de invasión hacemos una especie de te
 + Relaciones de vecindad del ecosistema invadido. Se refieren a las características del territorio que rodean a un ecosistema invadido. Este conjunto de variables no están muy relacionadas con la vulnerabilidad propia del ecosistema invadido, sino con el riesgo de sufrir una invasión. En otras palabras, un territorio aumenta su suceptibilidad a sufrir una invasión cuando está rodeado de otros que son vulnerables o que ya soportan invasiones biológicas. La forma y el tamaño del ecosistema potencialmente invadido están relacionadas con el riesgo de recibir invasiones biológicas. 
 
 
-
 ### Aspectos generales del proceso de invasión
 
-El tercer componente clave de las invasiones biológicas es el proceso de invasión en sí. Durante esta sesión analizamos este proceso teniendo en cuenta dos miradas diferentes pero complementarias:
+El tercer componente clave de las invasiones biológicas es el proceso de invasión en sí. Durante esta sesión analizamos este proceso teniendo en cuenta tres miradas diferentes pero complementarias:
 
-+ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas. Analizamos este proceso siguiendo el trabajo de Blackburn et al. (2021)
++ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas. Analizamos este proceso siguiendo el trabajo de [Blackburn et al. (2021)](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/biblio/proceso_invasion.pdf)
++ Este proceso de invasión recuerda mucho al mecanismo por el cual un organismo es infectado por un virus o una bacteria por primera vez. Este paralelismo entre invasiones biológicas y zoonosis se estudió intensamente después de la pandemia de COVID-19.
++ La última mirada pone el foco en la evolución biológica. Las invasiones biológicas ocurren cuando un organismo se pone en contacto con un ecosistema con el que no se ha relacionado en mucho tiempo. 
+
+Después de analizar el proceso de invasión con esta triple componente, estudiamos con detalle varios ejemplos de invasiones biológicas.
+
+En [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/presentacion/3_proceso_invasion.pptx) presentación se puede ver el material que se utilizó para acompañar la explicación sobre el proceso de las invasiones biológicas. 
 
 
 
