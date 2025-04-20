@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/tags/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/tags/2024-2025/imagenes/portada.png)
 
 
 
@@ -39,7 +39,7 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
 
 + En el ámbito de las invasiones biológicas, tienen mucho protagonismo las especies invasoras. Así que, la primera pregunta que nos hacemos es, ¿Qué es una especie invasora?. En la siguiente presentación se muestran los contenidos principales a este respecto.
 
-<iframe height="400" src="https://raw.githack.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/2024_2025/presentacion/1_que_es_invasora/1_que_es_invasora.html"></iframe>
+<iframe height="400" src="https://raw.githack.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/2024-2025/presentacion/1_que_es_invasora/1_que_es_invasora.html"></iframe>
 
 + El mensaje clave que surge de esta presentación es que el concepto de especie invasora incluye multitud de dependencias y de matices que dificultan su definición de manera absoluta. Es decir, casi cualquier especie puede comportarse como invasora. 
 
@@ -57,7 +57,7 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
     + En el largo plazo, los movimientos de especies por el planeta están relacionados con las migraciones e implican flujo de genes entre poblaciones. Tampoco podría denominarse una invasión biológica.
   + Además, si incorporamos un tercer eje que describa las interacciones, estamos contemplando también el conjunto de razones que hacen que un territorio sea más o menos susceptible a una invasión biológica.
 
-  Según todo lo anterior, una invasión biológica suele darse en escalas temporales y espaciales intermedias y en el extremo de las interacciones que haría que un territorio fuera susceptible a la invasión. [Esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/presentacion/2_contexto_invasiones.pptx) presentación muestra gráficamente lo anterior. Para entender mejor el proceso, usar la animación en Powerpoint.
+  Según todo lo anterior, una invasión biológica suele darse en escalas temporales y espaciales intermedias y en el extremo de las interacciones que haría que un territorio fuera susceptible a la invasión. [Esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/presentacion/2_contexto_invasiones.pptx) presentación muestra gráficamente lo anterior. Para entender mejor el proceso, usar la animación en Powerpoint.
 
 ### Características habituales en las especies invasoras
 
@@ -131,13 +131,13 @@ Para trabajar esta componente del proceso de invasión hacemos una especie de te
 
 El tercer componente clave de las invasiones biológicas es el proceso de invasión en sí. Durante esta sesión analizamos este proceso teniendo en cuenta tres miradas diferentes pero complementarias:
 
-+ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas. Analizamos este proceso siguiendo el trabajo de [Blackburn et al. (2021)](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/biblio/proceso_invasion.pdf)
++ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas. Analizamos este proceso siguiendo el trabajo de [Blackburn et al. (2021)](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/biblio/proceso_invasion.pdf)
 + Este proceso de invasión recuerda mucho al mecanismo por el cual un organismo es infectado por un virus o una bacteria por primera vez. Este paralelismo entre invasiones biológicas y zoonosis se estudió intensamente después de la pandemia de COVID-19.
 + La última mirada pone el foco en la evolución biológica. Las invasiones biológicas ocurren cuando un organismo se pone en contacto con un ecosistema con el que no se ha relacionado en mucho tiempo. 
 
 Después de analizar el proceso de invasión con esta triple componente, estudiamos con detalle varios ejemplos de invasiones biológicas.
 
-En [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024_2025/presentacion/3_proceso_invasion.pptx) presentación se puede ver el material que se utilizó para acompañar la explicación sobre el proceso de las invasiones biológicas. 
+En [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/presentacion/3_proceso_invasion.pptx) presentación se puede ver el material que se utilizó para acompañar la explicación sobre el proceso de las invasiones biológicas. 
 
 
 
@@ -150,10 +150,10 @@ En [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterb
 
 
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
