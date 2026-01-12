@@ -36,6 +36,16 @@ Este acto docente comprende varias sesiones en las que se usan varias técnicas 
 El material de trabajo en clase se irá incluyendo en este guión conforme vayamos ejecutándolo.
 
 
+## Ejercicio en clase sobre el uso de IAs para el aprendizaje
+
+- Descarga [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/flora.zip) archivo zip y [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/iect_rubus_ulmifolius_tcm30-164122.pdf) otro pdf.
+- Descomprime el archivo .zip
+- En clase veremos cómo proceder con esta información.
+
+
+
+
+
 ****
 
 
