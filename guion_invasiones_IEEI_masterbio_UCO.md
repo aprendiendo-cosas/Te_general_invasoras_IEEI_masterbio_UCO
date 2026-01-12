@@ -1,7 +1,7 @@
 # Aspectos generales sobre especies invasoras, territorios invadidos y sobre el proceso de invasión biológica
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (titulación)_**: Interacciones Ecológicas y Especies Invasoras (master biodiversidad UCO)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 5 horas
