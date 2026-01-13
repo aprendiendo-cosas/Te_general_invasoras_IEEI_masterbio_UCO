@@ -143,6 +143,8 @@ Este resumen es muy importante porque nos indica claramente que el foco de las i
 
 
 
+
+
 ## Resumen de aprendizajes
 Por completar cuando acabemos las tres sesiones.
 
