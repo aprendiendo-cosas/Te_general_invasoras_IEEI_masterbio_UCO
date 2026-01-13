@@ -29,6 +29,42 @@ De manera más específica, los objetivos son:
 
 
 
+
+
+---
+
+- Actividad grupal:
+  - ¿Qué es una especie invasora?
+  - ¿qué características tienen las especies invasoras?
+  - Responder a las preguntas anteriores también pone de manifiesto otros elementos clave:
+    - Importancia del ecosistema que sufre la invasión.
+    - Importancia de las actividades humanas que promueven las invasiones
+  - El profesor presenta ejemplos que ponen en tela de juicio la definición consensuada. Los puntos de ruptura apelan a cuestiones espaciales y temporales.
+    - Vemos cómo la definición de la que nos hemos dotado solo funciona en un rango concreto del dominio espacial y temporal. 
+- ¿Cómo de completa es la lista de características que hemos identificado para las especies invasoras?
+  - Tratamos de responder a esta pregunta usando varias herramientas IA: Perplexity, Elicit y Notebook LM
+  - Síntesis de las respuestas obtenidas:
+    - texto resumido generado automáticamente.
+    - Conclusión: no me llames especie invasora, llámame invasión biológica
+- La conclusión anterior pone el foco en dos elementos además de en las especies invasoras: caracerísticas del territorio y el proceso de invasión
+- dinámica de clase sobre las características del territorio invasor.
+  - lluvia de ideas.
+  - Constatar lo visto con una IA
+- Descripción del proceso de invasión biológica. Quizás pedir una infografía a notebook
+- Ejemplos de invasoras contemplando las ideas anteriores.
+
+---
+
+
+
+- Resumen de lo que hemos hecho:
+  - Apelar al conocimiento propio para caracterizar las especies invasoras.
+  - Constatar que hay múltiples excepciones.
+  - Aprender que la clave no es tanto las características de las invasoras, sino una conjunción de estas con un proceso y con un medio receptor.
+  - Esto nos lleva a incorporar dos conceptos nuevos: características del territorio invadido y el proceso de invasión.
+
+
+
 ## Contenidos
 
 Este acto docente comprende varias sesiones en las que se usan varias técnicas pedagógicas. Se alternan las clases expositivas con los debates y las preguntas-repreguntas para apelar al conocimiento ya existente de los estudiantes. En esta sección se describe lo más fielmente posible cómo discurrieron dichas sesiones. Se incluyen enlaces al material usado en clase o se incluyen en el texto. Además, se describen los contenidos abordados de manera sucinta, a modo de puntos clave.
