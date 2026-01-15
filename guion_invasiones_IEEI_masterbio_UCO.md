@@ -164,9 +164,9 @@ Para ello procederemos de la siguiente forma:
 
 
 - Copia los resultados en una hoja de excel y ordena las especies por valores descendendes del promedio de los rasgos de invasividad. Comparemos los resultados entre nosotros.
-- Ahora descarga este pdf. Contiene información sobre las características de una especie autóctona: la zarzamora (*Rubus ulmifolius*). Sube esta ficha al Notebook. Ahora vamos a pedirle a la IA que asigne valores numéricos a esta especie relacionados con los rasgos que hemos considerado claves para la invasividad. ¿en qué lugar del ranking coloca la IA a esta especie?. Para hacer esto, podemos incluir el siguiente prompt:
+- Ahora descarga [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/Rubus_ulmifolius.pdf) pdf. Contiene información sobre las características de una especie autóctona: la zarzamora (*Rubus ulmifolius*). Sube esta ficha al Notebook. Ahora vamos a pedirle a la IA que asigne valores numéricos a esta especie relacionados con los rasgos que hemos considerado claves para la invasividad. ¿en qué lugar del ranking coloca la IA a esta especie?. Para hacer esto, podemos incluir el siguiente prompt:
 
-> La fuente denominada "Rubus_ulmifolius.pdf" contiene información ecológica sobre una especie autóctona en España. Analiza el contenido de ese documento y compáralo con los rasgos de invasividad descritos en "criterios_invasividad.docx". Además asigna un valor numérico para cada criterio en esta especie. Por último, compara estos valores que has asignado con los que ya habías asignado anteriormente a l	as especies invasoras.
+> La fuente denominada "Rubus_ulmifolius.pdf" contiene información ecológica sobre una especie autóctona en España. Analiza el contenido de ese documento y compáralo con los rasgos de invasividad descritos en "criterios_invasividad.docx". Además asigna un valor numérico para cada criterio en esta especie. Por último, compara estos valores que has asignado con los que ya habías asignado anteriormente a las especies invasoras.
 >
 > El objetivo de este análisis es que compares en qué medida una especie auctóctona (*Rubus ulmifolius*) tiene rasgos que podrían ser considerados como propios de una especie invasora.
 
@@ -177,15 +177,6 @@ Para ello procederemos de la siguiente forma:
 
 
 
-
-
-
-
-
-+ 
-+  y [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/iect_rubus_ulmifolius_tcm30-164122.pdf) otro pdf.
-+ Descomprime el archivo .zip
-+ En clase veremos cómo proceder con esta información.
 
 
 
