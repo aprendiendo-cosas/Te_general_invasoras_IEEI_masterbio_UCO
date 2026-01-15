@@ -83,7 +83,8 @@ Con objeto de mejorar nuestro uso de estas herramientas tan potentes, vamos a tr
 + Herramientas de utilidad:
   + [Elicit](https://elicit.org/) es una IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de la anterior y de ChatGPT. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. La versión pro es cara, pero existe la posibilidad de acceder a un año gratis siguiendo [estas](https://www.perplexity.ai/join/p/paypal-subscription) instrucciones. 
-  + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con textos que se han subido previamente a la plataforma. Las consultas se circunscriben exclusivamente a dichos textos. Además, contiene herramientas que permiten crear resúmenes sonoros (podcasts) del material subido a la plataforma. Es muy útil porque constituye, de alguna manera, una réplica digital del profesor de una asignatura. [Aquí](https://gemini.google/students/) podéis optar a 1 mes de uso gratuito de la versión pro de esta herramienta. Antes la oferta era de 12 meses. Lo han cambiado. Lo siento
+  + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con textos que se han subido previamente a la plataforma. Las consultas se circunscriben exclusivamente a dichos textos. Además, contiene herramientas que permiten crear resúmenes sonoros (podcasts) del material subido a la plataforma. Es muy útil porque constituye, de alguna manera, una réplica digital del profesor de una asignatura. [Aquí](https://gemini.google/students/) podéis optar a 1 mes de uso gratuito de la versión pro de esta herramienta. Antes la oferta era de 12 meses. Lo han cambiado. Lo siento.
+  + [Github](https://github.com/) aporta un copiloto con IA que resulta tremendamente útil para aprender a programar. Se [integra fácilmente con RStudio](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html). Si te das de alta en [Github Education](https://github.com/education) con un correo de una institución educativa, tienes acceso gratis. 
 
 
 Dicho lo anterior, procedimos a usar las siguientes herramientas en clase.
@@ -133,7 +134,30 @@ Este resumen es muy importante porque nos indica claramente que el foco de las i
 
 [Aquí](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/1_que_es_invasora.pptx) puedes ver la presentación de Powerpoint usada por el profesor en esta sesión. 
 
+---
+
+
+
 ### Segunda sesión (15/01/2026)
+
+#### Caracterización del grado de invasividad de las especies de flora invasora en España.
+
+Empezamos la sesión con un ejercicio en el que tratamos de aplicar las características principales de las especies invasoras al catálogo de especies invasoras generado por el Ministerio de la transición ecológica de España (MITECO). Vamos a generar una tabla que compare las distintas especies invasoras que hay catalogadas en función de las variables que determinan su invasividad. Generaremos una especie de "Ranking" de especies invasoras en función de sus características propias o rasgos funcionales.
+
+Para ello procederemos de la siguiente forma:
+
++ Descarga [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/flora.zip) archivo zip. En él se incluyen una serie de fichas que describen las principales especies de flora amenazada [catalogadas](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce-eei-catalogo.html) por el MITECO. Descomprime el archivo y guárda el resultado en tu ordenador.
++ Descarga [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/descargables/criterios_invasividad.docx) archivo de word. En él se resumen las principales características que, según acordamos, tienen las especies invasoras. 
++ 
++ 
++ 
++  y [este](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/biblio/iect_rubus_ulmifolius_tcm30-164122.pdf) otro pdf.
++ Descomprime el archivo .zip
++ En clase veremos cómo proceder con esta información.
+
+
+
+
 
 
 
