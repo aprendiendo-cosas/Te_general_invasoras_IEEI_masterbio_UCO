@@ -239,11 +239,15 @@ Aunque esta discusión se sale un poco de la asignatura, dedicamos unos minutos 
 
 ### Tercera sesión (20/01/2026)
 
-Tras analizar con detalle los dos elementos tangibles de la invasión (especie invasora y territorio invadido), iniciamos esta última sesión hablando del proceso de invasión. Trataremos de explicar de manera dinámica el proceso por el cual una especie invade un territorio determinado. Para ello nos basamos en el trabajo de [Blackburn et al. de 2011](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/proceso_invasion.pdf), cuyo esquema principal puedes ver a continuación. 
++ Tras analizar con detalle los dos elementos tangibles de la invasión (especie invasora y territorio invadido), iniciamos esta última sesión hablando del proceso de invasión. Lo explicamos con tres abordajes compatibles y siguiendo [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/2_proceso_invasion.pptx) presentación:
+  + En primer lugar explicamos de manera dinámica el proceso por el cual una especie invade un territorio determinado. Para ello nos basamos en el trabajo de [Blackburn et al. de 2011](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/proceso_invasion.pdf), cuyo esquema principal puedes ver a continuación. 
+  
+  ![proceso](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/heads/main/imagenes/proceso.png)
+  
+  + Este proceso de invasión recuerda mucho al mecanismo por el cual un organismo es infectado por un virus o una bacteria por primera vez. Este paralelismo entre invasiones biológicas y zoonosis se estudió intensamente después de la pandemia de COVID-19.
+  + La última mirada pone el foco en la evolución biológica. Las invasiones biológicas ocurren cuando un organismo se pone en contacto con un ecosistema con el que no se ha relacionado en mucho tiempo. Para ilustrar esta situación usamos unas diapositivas antiguas (de 1997) que hice cuando era tan joven como vosotros para explicar el concepto de "enfermedad emergente".
 
-
-
-
++ Para terminar la sesión, describimos los principales impactos de las invasiones biológicas y tres ejemplos que ilustran bien el impacto de este proceso a escala de ecosistema. Para ello seguimos la información mostrada en [esta](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/3_impactos_ejemplos.pptx) presentación. 
 
 
 
