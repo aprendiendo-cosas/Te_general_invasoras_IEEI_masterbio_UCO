@@ -170,7 +170,21 @@ Para ello procederemos de la siguiente forma:
 >
 > El objetivo de este análisis es que compares en qué medida una especie auctóctona (*Rubus ulmifolius*) tiene rasgos que podrían ser considerados como propios de una especie invasora.
 
-+ ¿Qué resultados obtenemos? ¿es la zarzamora una especie invasora?
+
+
+Tras el ejercicio evaluamos someramente los resultados obtenidos:
+
++ La IA se hace la remolona para analizar toda la lista de especies invasoras. Es necesario repetirle que queremos que extraiga todas las especies del pdf con la ficha de características ecológicas.
++ Los resultados obtenidos son razonables. Aunque no todos en la clase obtenemos los mismos resultados (las IAs no son herramientas deterministas), sí que nos ofrecen resultados coherentes. En la lista de especies con mayor capacidad invasora suelen estar especies como *Ailanthus*, *Cortadeira*, o *Azolla*. 
++ Cuando incorporamos la ficha de *Rubus ulmifolius* al análisis, obtenemos que se trata de una especie con gran capacidad de invasión. Sin embargo, en España esta especie no es invasora, sino autóctona. Esto nos lleva a constatar una vez más que en las invasiones biológicas no solo son importantes las especies invasoras, sino también el territorio invadido.
+
+#### Reflexión sobre los rangos de utilidad del concepto de invasión biológica
+
+Después de los ejercicios con la IA, subimos el nivel de abstracción y comentamos brevemente que el concepto de invasión biológica tiene sentido en un rango de tiempo, espacio y de tipos de relaciones en el ecosistema muy concretos. El hecho en sí no cambia en función de los distintos rangos en los tres ejes anteriores: una especie llega a un nuevo territorio. Lo que cambian son las consecuencias de ese hecho. Cuando el hecho (una especie llega a un sitio nuevo) ocurre a escala de un único individuo, podríamos estar ante el caso de una infección o una enfermedad. Si esta infección afecta a muchos organismos de una especie, podría desencadenarse una epidemia. Algo así pudo haber pasado cuando los europeos llevaron la gripe a las tribus nativas americanas. Cuando el proceso de movimiento de especies afecta a un territorio muy amplio en tiempos muy largos, estamos ante una situación de migración ecológica y de flujo de genes. Además, cuando incorporamos la tercera dimensión (el eje de las relaciones ecológicas), observamos que hay un contexto en el cual son más probables las invasiones. Cuando el territorio invadido tiene pocas conexiones ecológicas, es más probable que las nuevas especies puedan encontrar un nicho en ese territorio. 
+
+
+
+
 
 
 
