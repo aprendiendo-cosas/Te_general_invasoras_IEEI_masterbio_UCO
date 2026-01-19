@@ -186,25 +186,52 @@ Después de los ejercicios con la IA, subimos el nivel de abstracción y comenta
 
 ![ejes](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/heads/main/imagenes/ejes_invasion.png)
 
-
+A modo de conclusión de esta sección y como introducción a las siguientes acordamos que en el proceso de invasión hay tres actores clave: las especies invadidas, el proceso de invasión y el territorio invadido. Vamos a estudiar este último...
 
 #### La importancia del territorio invadido
 
-¿Qué características debe de tener un territorio para ser susceptible de ser invadido por una especie exótica?
+Al igual que en casos anteriores, nos preguntamos cuáles son las características principales que debería de tener una zona potencialmente invadible por una especie exótica. A continuación van los comentarios aportados por los estudiantes y las puntualizaciones del profesor:
 
-###### 
-
-
-
-
-
-
-
++ *Presencia de humanos*: Es la primera variable importante considerada por la clase. Parece que las invasiones biológicas solo ocurren como consecuencia de la actividad humana. Siendo esto cierto, la presencia de humanos como tal no es la razón última de la presencia de invasiones. En realidad, es la actividad humana la que reduce la funcionalidad de los ecosistemas y esto, por tanto (ver más adelante), permite que entren especies invasoras al ecosistema. Esto nos permite describir el concepto de variable subrogada: se definen así las variables que, sin tener relación directa con lo que estamos estudiando, son más fáciles de medir o de caracterizar que las variables primarias. Por ejemplo, tendemos a decir que la precipitación es la que determina la distribución de las especies vegetales. Pero en realidad lo que determina esto es la cantidad de humedad que hay en el suelo. Esta última variable es la original, mientras que la precipitación es una subrogada. 
++ *Degradación del medio*: Rápidamente surge la idea del papel de la degradación de los ecosistemas en la probabilidad de experimentar invasiones biológicas. Casi a continuación, alguien dice que un sistema en "equilibrio" no sufrirá invasiones biológicas. Si un sistema está en equilibrio (dinámico), no experimentará síntomas de degradación. Esta afirmación nos lleva a discutir lo siguiente:
+  + El concepto de equilibrio que solemos tener en mente es equivocado. Equilibrio en la naturaleza no equivale a quietud ni a calma. El equilibrio tiene más que ver con la capacidad que tiene un sistema ecológico de optimizar tanto la energía que le llega como el contexto abiótico en el que se encuentra (nutrientes abióticos, agua, temperatura, etc.).
+  + A la luz de la física y de la termodinámica, un sistema ecológico funciona bien (=no está degradado) cuando todas sus piezas son capaces de aprovechar al máximo la energía del sol y las condiciones ambientales. 
+  + Si, por la razón que sea, faltan piezas, se genera una especie de vacío. Las condiciones ambientales permitrían más "rendimiento". Pero no ocurre así porque hemos retirado piezas del sistema (=especies o biomasa). Ese "hueco" puede ser cubierto por especies exóticas que aprovechan sus características naturales para encontrar nichos en el nuevo territorio. Así, la nueva especie puede convertirse en un problema y degradar más el ecosistema. 
++ *Insularidad*: Este concepto no surge de manera directa, sino como consecuencia de una crítica a la afirmación anterior. Fue algo así: "Si los sitios bien conservados no pueden sufrir invasiones biológicas, ¿Cómo se explica la invasión de *Rubus ulmifolius* en las islas de Juan Fernández (Chile)?". Es una pregunta enormemente útil porque nos permite incorporar otro concepto que no habíamos considerado. Resulta que los territorios insulares, aunque no estén perturbados por la actividad humana, no se encuentran en esa situación de equilibrio que comentamos antes. En una isla, por definición, hay menos especies que en un territorio de tamaño equivalente, pero no aislado. Esto lo sabemos por la biogeografía de islas. Según este marco conceptual, los territorios tienen menos capacidad de albergar especies en función de su tamaño (a más tamaño más especies) y de su distancia al continente (a más distancia, menos especies). Esto se debe a que conforme más pequeño y alejado está un territorio, más probable es que en él haya extinciones de especies y menos que lleguen especies nuevas. En definitiva, en las islas el equilibrio dinámico del que hablamos antes se alcanza antes de llegar a ese máximo teórico de optimización de la "maquinaria" ecológica. Por eso cuando llega una especie exótica que no ha estado antes, es más probable que se desencadene una invasión. Podemos decir que, de alguna forma, los ecosistemas insulares son más inmaduros que los continentales. 
 
 
 
+#### Discusión sobre especies invasoras que pierden capacidad invasora con el tiempo
+
+En un momento dado, cuando estamos pensando en las características del territorio que hacen más probables las invasiones, un estudiante saca a relucir una cuestión interesante. Resulta que se han documentado casos en los que especies de hormigas invasoras son muy agresivas en un primer momento pero luego, sin razón aparente, dejan de serlo y la invasión se "atenúa" de alguna forma. Pensamos que quizás algo parecido le ocurrió a la chumbera (*Opuntia ficus indica*). Fue muy común hace décadas y ahora está en franco declive. Nos preguntamos qué características tendrá el medio receptor para que ocurra esto...
 
 
+
+Dejamos el debate abierto, por ahora :)
+
+#### Discusión sobre la analogía entre persona enferma y ecosistema invadido
+
+En un momento de la clase, alguien plantea esta pregunta: "Estamos diciendo que los ecosistemas se ven invadidos solo si están degradados. ¿por qué una persona puede enfermar por muy fuerte que esté su sistema inmune". Es una pregunta interesante que nos ayuda a entender mejor las invasiones biológicas:
+
++ La anlogía entre invasión biológica y enfermedad es muy buena en general. De hecho, muchas veces se usa en ámbitos científicos.
+
++ Pero como cualquier analogía, tiene rangos de operatividad. El ejemplo que nos ocupa se sale de ese rango. Estamos asimilando un individuo (persona) a un ecosistema. Una persona infectada por un virus puede sobrevivir. En términos ecosistémicos esto implicaría que al ecosistena sano llega una invasora y, después de cierta "lucha", no hay una implantación de dicha especie.
+
++ O dicho de otra forma, una especie determinada de un ecosistema puede verse afectada por una infección provocada por una especie exótica y eso no tiene por qué comprometer al ecosistema en su conjunto.
+
+#### Impacto de la actividad humana sobre el funcionamiento de los ecosistemas
+
+A raíz de la discusión anterior, un estudiante plantea que hay territorios en los que ha habido actividad humana, pero que mantienen funcionalidad ecológica y están en ese equilibrio del que hablábamos antes. Se pone como ejemplo la ganadería en Doñana o la existencia de especies o ecosistemas que necesitan de la actividad humana para subsistir.
+
+Aunque esta discusión se sale un poco de la asignatura, dedicamos unos minutos a reflexionar sobre el asunto:
+
++ La afirmación anterior es básicamente cierta. No siempre la actividad humana destruye el sistema y permite que entren invasoras.
++ Los ejemplos propuestos por los estudiantes tienen dos rasgos en común:
+  + El impacto de la actividad humana ha ocurrido en periodos de tiempos relativamente largos. El reemplazo de la vegetación natural o de los herbívoros naturales en Doñana por lo que tenemos ahora, no ocurrió en un único evento, sino a lo largo de décadas. Esto hace que el impacto sobre el ecosistema sea menos intenso y que los mecanismos de regulación naturales de los ecosistemas puedan "amorgituar" el impacto de alguna manera. Dicho de otra forma, cuando el impacto no es muy intenso en el tiempo, es posible redistribuir los flujos de energía y materia dentro del ecosistema. 
+  + Otro rasgo importante es que esos impactos mencionados implican casi siempre reemplazar piezas del ecosistema natural por otras "parecidas". Por ejemplo, los herbívoros domésticos se parecen más a los naturales que un monocultivo de fresas... De alguna forma los hervíboros domésticos siguen contribuyendo a la funcionalidad del ecosistema.
++ Lo anterior explica incluso que haya especies que requieran cierta actividad humana para subsistir. Podríamos explicar esto con más detalle diciendo que quizás esas especies eran escasas en una situación sin humanos. Imaginemos, por ejemplo, una especie de planta que vive sobre suelos desnudos. Si el clima de una zona permite la existencia de bosques, esta especie tendrá poblaciones reducidas. Solo será frecuente en zonas perturbadas de forma natural. Cuando llega la actividad humana y cambia los bosques por cultivos o pastos, la especie de hierba que usamos como ejemplo, tiene más oportunidades para subsistir. Además, los bosques naturales ocupan menos superficie, por lo que esta especie ya no se encontrará tan fácilmente en los claros de los mismos. Por ello, su subsistencia está condicionada en buena medida a zonas donde la actividad humana es frecuente. Seguro que hay otras interpretaciones para esto...
+
+  
 
 ### Tercera sesión (20/01/2026)
 
