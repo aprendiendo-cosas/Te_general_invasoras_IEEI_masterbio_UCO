@@ -170,7 +170,15 @@ Para ello procederemos de la siguiente forma:
 >
 > El objetivo de este análisis es que compares en qué medida una especie auctóctona (*Rubus ulmifolius*) tiene rasgos que podrían ser considerados como propios de una especie invasora.
 
++ ¿Qué resultados obtenemos? ¿es la zarzamora una especie invasora?
 
+
+
+#### La importancia del territorio invadido
+
+¿Qué características debe de tener un territorio para ser susceptible de ser invadido por una especie exótica?
+
+###### 
 
 
 
