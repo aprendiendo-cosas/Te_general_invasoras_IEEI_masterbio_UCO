@@ -231,9 +231,17 @@ Aunque esta discusión se sale un poco de la asignatura, dedicamos unos minutos 
   + Otro rasgo importante es que esos impactos mencionados implican casi siempre reemplazar piezas del ecosistema natural por otras "parecidas". Por ejemplo, los herbívoros domésticos se parecen más a los naturales que un monocultivo de fresas... De alguna forma los hervíboros domésticos siguen contribuyendo a la funcionalidad del ecosistema.
 + Lo anterior explica incluso que haya especies que requieran cierta actividad humana para subsistir. Podríamos explicar esto con más detalle diciendo que quizás esas especies eran escasas en una situación sin humanos. Imaginemos, por ejemplo, una especie de planta que vive sobre suelos desnudos. Si el clima de una zona permite la existencia de bosques, esta especie tendrá poblaciones reducidas. Solo será frecuente en zonas perturbadas de forma natural. Cuando llega la actividad humana y cambia los bosques por cultivos o pastos, la especie de hierba que usamos como ejemplo, tiene más oportunidades para subsistir. Además, los bosques naturales ocupan menos superficie, por lo que esta especie ya no se encontrará tan fácilmente en los claros de los mismos. Por ello, su subsistencia está condicionada en buena medida a zonas donde la actividad humana es frecuente. Seguro que hay otras interpretaciones para esto...
 
-  
+  [Aquí](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/1_que_es_invasora.pptx) puedes ver la presentación de Powerpoint usada por el profesor en esta sesión. 
+
+
+
+---
 
 ### Tercera sesión (20/01/2026)
+
+Tras analizar con detalle los dos elementos tangibles de la invasión (especie invasora y territorio invadido), iniciamos esta última sesión hablando del proceso de invasión. Trataremos de explicar de manera dinámica el proceso por el cual una especie invade un territorio determinado. Para ello nos basamos en el trabajo de [Blackburn et al. de 2011](https://github.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/proceso_invasion.pdf), cuyo esquema principal puedes ver a continuación. 
+
+
 
 
 
