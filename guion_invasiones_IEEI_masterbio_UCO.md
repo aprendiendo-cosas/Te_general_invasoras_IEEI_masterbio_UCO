@@ -184,7 +184,7 @@ Después de los ejercicios con la IA, subimos el nivel de abstracción y comenta
 
 
 
-
+![ejes](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/heads/main/imagenes/ejes_invasion.png)
 
 
 
